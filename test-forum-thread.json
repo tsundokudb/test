@@ -55,5 +55,14 @@
     "mediaalt": "weeeeee",
     "client": "Eastern Daylight Time / 10:47:52 PM / windows / chromium / 2736x1824 / 8 cpu cores",
     "mediasrc": "https://cdn.discordapp.com/attachments/1093313171604906051/1152073271332851752/b7craq3d_400x400.jpeg"
+  },
+  {
+    "time": 1694746248959,
+    "user": "poopnis",
+    "subject": "testing uploading an audio file",
+    "body": "the below file should be displayed as inline audio",
+    "mediaalt": "",
+    "client": "Eastern Daylight Time / 10:50:48 PM / windows / chromium / 2736x1824 / 8 cpu cores",
+    "mediasrc": "https://cdn.discordapp.com/attachments/1093313171604906051/1152074009383551006/01_-_SCHIZOPHRENIA.flac"
   }
 ]
